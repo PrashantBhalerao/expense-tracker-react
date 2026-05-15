@@ -31,13 +31,13 @@ A responsive Expense Tracker application built using React.js and Vite.
 
 ### Dashboard Overview
 
-![Desktop View 1](./screenshots/desktop-view-1.png)
+![Desktop View 1](./src/screenshots/desktop-view-1.png)
 
 ---
 
 ### Expense List Section
 
-![Desktop View 2](./screenshots/desktop-view-2.png)
+![Desktop View 2](./src/screenshots/desktop-view-2.png)
 
 ---
 
@@ -45,25 +45,25 @@ A responsive Expense Tracker application built using React.js and Vite.
 
 ### Mobile Home Screen
 
-![Mobile View 1](./screenshots/mobile-view-1.png)
+![Mobile View 1](./src/screenshots/mobile-view-1.png)
 
 ---
 
 ### Mobile Summary Section
 
-![Mobile View 2](./screenshots/mobile-view-2.png)
+![Mobile View 2](./src/screenshots/mobile-view-2.png)
 
 ---
 
 ### Mobile Currency Converter
 
-![Mobile View 3](./screenshots/mobile-view-3.png)
+![Mobile View 3](./src/screenshots/mobile-view-3.png)
 
 ---
 
 ### Mobile Expense Cards
 
-![Mobile View 4](./screenshots/mobile-view-4.png)
+![Mobile View 4](./src/screenshots/mobile-view-4.png)
 
 ---
 
